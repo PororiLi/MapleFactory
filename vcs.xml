@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Maple-Factory/PORORI_SandBox.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Maple-Factory/NEVA_SandBox.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\xiozi\OneDrive - changwon.ac.kr\homework\Soen" />
