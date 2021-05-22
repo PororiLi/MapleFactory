@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/PororiLi/Plouf" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/PhilJay/MPAndroidChart" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\xiozi\OneDrive - changwon.ac.kr\develop" />
